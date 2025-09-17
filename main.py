@@ -3,8 +3,9 @@ apellido="Zapata"
 ombre="Isabela"   
 nombre="Alejandro"   
 nombre="Jazmin"   
-nombre="Isabela"   
+nombre="Isabela"  
+edad="19" 
 print("Isabela")
 print("Jazmin")
 print("Alejandro")
-print("Hola "+nombre)
+print("Hola "+nombre+edad)
