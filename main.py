@@ -1,5 +1,6 @@
 nombre="Jazmin"  
-apellido="Zapata" 
+apellido="Duque" 
+apellido="Guerrero" 
 ombre="Isabela"   
 nombre="Alejandro"   
 nombre="Jazmin"   
@@ -9,3 +10,5 @@ print("Isabela")
 print("Jazmin")
 print("Alejandro")
 print("Hola "+nombre+edad)
+print("Hola"+nombre)
+print("Hola "+nombre)
