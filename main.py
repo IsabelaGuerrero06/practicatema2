@@ -1,5 +1,7 @@
 nombre="Alejandro"   
-print("isabela")
+nombre="Jazmin"   
+nombre="Isabela"   
+print("Isabela")
 print("Jazmin")
 print("Alejandro")
-print("Hola"+nombre)
+print("Hola "+nombre)
