@@ -1,5 +1,5 @@
-nombre="mundo"   
+nombre="Jazmin"   
 print("isabela")
 print("Jazmin")
 print("Alejandro")
-print("Hola"+nombre)
+print("Hola "+nombre)
